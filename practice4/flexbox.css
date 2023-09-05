@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+.master{
+    display: flex;
+    
+    
+    
+}
+
+.master>div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.class1{
+    flex-shrink: 1;
+    flex-basis: 300px;
+
+}
+.class2{
+
+    flex-shrink: 2.5;
+    flex-basis: 300px;
+    
+}
+.class3{
+
+    flex-shrink: 4;
+    flex-basis: 300px;
+
+    
+}
+.class4{
+
+    flex-shrink: 1;
+    flex-basis: 300px;
+    
+}
